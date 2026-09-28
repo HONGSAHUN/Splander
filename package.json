@@ -1,0 +1,7 @@
+{
+  "name":"splander",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Splendor tabletop game with five computer difficulties",
+  "scripts":{"test":"node --test tests/*.test.cjs","start":"python3 -m http.server 4173 --directory dist"}
+}
